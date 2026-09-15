@@ -1,0 +1,6 @@
+---
+description: Fork doctrine
+alwaysApply: true
+---
+
+Follow AGENTS.md. Small diffs. No secrets. This is a study fork for jackpoint, not a rewrite of ttyd.
